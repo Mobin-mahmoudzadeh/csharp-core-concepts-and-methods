@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advanced Geometry Helper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b559a7a01df04d73373b9cfa3b50e16dde06f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3687e6a6cb01f089ef43c790a9a0cfbc747f4b65")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advanced Geometry Helper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advanced Geometry Helper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
